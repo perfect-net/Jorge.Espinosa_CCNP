@@ -1,0 +1,2 @@
+
+Mi consejo personal sería asegurarte de que tienes un buen conocimiento de OSPF, BGP, VRRP, HSRP, NetFlow y applets EEM y estarás bien. Intenta usar GNS3 para configurar tus propios laboratorios y los comandos se te quedarán grabados en la cabeza.
